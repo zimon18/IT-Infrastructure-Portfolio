@@ -988,28 +988,59 @@ do folderu sso2 jednak nie ma uprawnień więc wszystko się zgadza
 
 9. Utwórz jeden ukryty folder o dowolnej nazwie z prawami 
 odczytu tylko dla użytkowników tych dwóch grup. 
+
 W poradniku został pokazany sposób tworzenia ukrytych folderów i jak one działają  
 tworzymy nowy udział 
+
+<img width="968" height="669" alt="image" src="https://github.com/user-attachments/assets/a173fbe6-c035-414d-8a6f-45b76399a398" />
+
+<img width="866" height="671" alt="image" src="https://github.com/user-attachments/assets/b46e14be-cdc4-4da1-91b2-aef490512cad" />
+
 lokalizacja to d:\tajny$ 
  
- 
+<img width="980" height="647" alt="image" src="https://github.com/user-attachments/assets/b55e2f5c-c0ad-4499-b778-89deddafcfa7" />
+
 tworzymy ten folder 
- 
+
+ <img width="959" height="686" alt="image" src="https://github.com/user-attachments/assets/41267d61-c341-4521-a0d9-337dffb1b2b2" />
+
  
  
 Wybieramy Dostosowywanie uprawnień 
+
+<img width="936" height="667" alt="image" src="https://github.com/user-attachments/assets/12243a83-155e-4092-a46f-5fb3d538274e" />
+
 dodajemy Informatycy 
+
+<img width="981" height="430" alt="image" src="https://github.com/user-attachments/assets/f7c6ee14-5766-41c5-a171-8e0b665148c9" />
+
 oraz dodajemy  
+
+<img width="834" height="815" alt="image" src="https://github.com/user-attachments/assets/00b9becb-887a-4daa-8f18-85dc1b403c72" />
+
 elektornicy tylko do odczytu 
 klikamy OK a następnie zakończ 
 
+<img width="803" height="862" alt="image" src="https://github.com/user-attachments/assets/f56a009f-8414-4d80-bda5-96eb67289d5d" />
+
+<img width="951" height="680" alt="image" src="https://github.com/user-attachments/assets/db142517-8ac9-4679-a5dd-3327148fe9d4" />
+
+<img width="943" height="739" alt="image" src="https://github.com/user-attachments/assets/a9309857-d40c-4b66-a83f-0b5f62dc1a9c" />
+
 z klienta możemy odczytać folder 
+
+<img width="938" height="693" alt="image" src="https://github.com/user-attachments/assets/a2afc6cf-c65e-40b5-9723-81bd4ce35cee" />
  
  
  
 podczas próby utworzenia pliku tekstowego pojawiło się takie okno, które potwierdza że jest 
 możliwy tylko odczyt 
- 
+
+ <img width="971" height="554" alt="image" src="https://github.com/user-attachments/assets/849bff7b-2ef6-4021-a467-4a694123796d" />
+
  
  
 oczywiście folder nie wyświetla się w tym miejscu 
+
+<img width="955" height="689" alt="image" src="https://github.com/user-attachments/assets/182871aa-5e05-48c1-9789-f0e17bb1f03c" />
+
