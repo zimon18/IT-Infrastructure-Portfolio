@@ -641,109 +641,271 @@ Zadania
 nazwie "SSO1". 
 Na początku utworzymy dwa konta użytkowników 
 Przechodzimy do Menedżera Serwera 
-z Menu Narzędzia wybieramy Użytkownicy i komputery Active Directory 
+z Menu Narzędzia wybieramy Użytkownicy i komputery Active Directory
+
+<img width="936" height="626" alt="image" src="https://github.com/user-attachments/assets/9f5e62cc-cbca-4e71-a623-038d8aa3da22" />
+
 Przechodzimy do jednostki Users 
+
+<img width="942" height="678" alt="image" src="https://github.com/user-attachments/assets/ddd9af7e-2ae5-4427-b302-bf78e0b6651e" />
+
 klikamy ppm nowy>Użytkownik 
+
+<img width="938" height="595" alt="image" src="https://github.com/user-attachments/assets/b6ecaff1-2078-4058-ae70-0896f89e5f2d" />
+
 pojawia się okno tworzenia użytkownika 
+
+<img width="874" height="661" alt="image" src="https://github.com/user-attachments/assets/b8472cdd-145e-4f4a-aa6f-5badba74f946" />
+
 nazywamy go  
 Bastian Smok 
 z niewygasającym hasłem Orangutan123 
- 
+
+<img width="916" height="675" alt="image" src="https://github.com/user-attachments/assets/a9bbce6d-6e2c-4e0a-8041-7198f08a6b92" />
+
 Klikamy Zakończ 
  
+ <img width="846" height="724" alt="image" src="https://github.com/user-attachments/assets/b2416528-26ce-4561-b492-32b670b793d6" />
+
  
  
  
 Następnie tym sposobem dodajemy użytkownika Dariusz Kubica z takim samym hasłem 
+
+<img width="775" height="623" alt="image" src="https://github.com/user-attachments/assets/811c914f-659d-44e6-b662-96b374b9fcb6" />
  
+<img width="844" height="704" alt="image" src="https://github.com/user-attachments/assets/504dfbbb-5e70-4726-9de7-6e02b44a7c24" />
  
  
 klikamy zakończ 
+
+<img width="924" height="758" alt="image" src="https://github.com/user-attachments/assets/5d5fb216-c687-4832-a60c-c2448a0f5cbf" />
+
 przechodzimy teraz na dysk D 
+
 tworzymy nowy folder SSO1 
+
+<img width="967" height="763" alt="image" src="https://github.com/user-attachments/assets/482e0400-be3b-47f2-9d7b-5577c233254c" />
+
 2. Udostępnij go z limitem 5 użytkowników i nadaj opis "Zajęcia 
 lekcyjne z SSO". 
-przechodzimy teraz do udziałów 
+przechodzimy teraz do udziałów
+
+<img width="941" height="676" alt="image" src="https://github.com/user-attachments/assets/406257f5-942f-423f-b388-8547dbc82c1a" />
+
 dodajemy nowy udział 
+
+<img width="951" height="666" alt="image" src="https://github.com/user-attachments/assets/945401b9-b242-465c-a5e0-d5d14f6b0e70" />
+
 szybkie i dalej 
+
+<img width="934" height="686" alt="image" src="https://github.com/user-attachments/assets/90ed23ce-a3af-4b1e-9075-24efcae7b26e" />
+
 wpisujemy niestandardową ścieżkę D:\SSO1 
+
+<img width="967" height="635" alt="image" src="https://github.com/user-attachments/assets/d42ff1a5-ddfe-4883-aa27-0680b54549af" />
+
 wszystko się zgadza, dodajemy też opis
+
+<img width="966" height="650" alt="image" src="https://github.com/user-attachments/assets/0a5b0af7-8e10-4d5a-83b3-d66b9d636053" />
+
 dodajemy takie uprawnienia 
+
+<img width="992" height="676" alt="image" src="https://github.com/user-attachments/assets/45d59ffd-ec8f-4dfa-9a49-0f2ef3c8eb7b" />
+
 klikamy Dostosowanie uprawnień 
  
- 
+
+<img width="1017" height="732" alt="image" src="https://github.com/user-attachments/assets/4047cb81-e88f-4c87-ad52-bc334787ecb9" />
+
 Wyłącz dziedziczenie 
- 
+
+ <img width="939" height="634" alt="image" src="https://github.com/user-attachments/assets/53d9f7dc-4f6b-48ff-84b8-ed7f367d0d7b" />
+
  
  
 usuwamy wszystko 
+
+<img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/5388ed2b-8b8c-4f10-8c3b-089cdd78a001" />
+
 następnie klikamy Dodaj 
+
+<img width="965" height="626" alt="image" src="https://github.com/user-attachments/assets/8c0ae42e-c93a-40a2-8527-4d3b545905d0" />
+
 oraz Wybierz podmiot zabezpieczeń 
+
+<img width="1030" height="685" alt="image" src="https://github.com/user-attachments/assets/25775a3f-c3dd-431a-a7fc-39cea9c971bf" />
+
 dodajemy utworzonych wcześniej użytkowników wpisując ich nazwy czyli bastian.smok oraz 
 dariusz.kubica 
+
+D<img width="959" height="510" alt="image" src="https://github.com/user-attachments/assets/12312340-2fc8-4213-9707-c8026d053e66" />
+
 dostaje on prawo do odczytu (zad 4) 
 bastian.smok natomiast nie będzie miał dostępu 
+
+<img width="978" height="639" alt="image" src="https://github.com/user-attachments/assets/d02729f9-e05c-4d4e-aaa1-a9b9c0c9c122" />
+
 stosujemy zmiany 
+
+<img width="989" height="652" alt="image" src="https://github.com/user-attachments/assets/873388e0-ab97-4be5-8542-7792439c20f5" />
+
 przechodzimy dalej 
+
+<img width="974" height="669" alt="image" src="https://github.com/user-attachments/assets/aeca1bad-4f0f-4e3e-996c-ec1403e5b9d5" />
+
 wszystko się zgadza więc klikamy utwórz 
+
+<img width="978" height="686" alt="image" src="https://github.com/user-attachments/assets/c7eebf55-c531-4132-ade7-6e759e2061d0" />
+
 Otwórz okno Konfigurowanie przydziału w celu ustawienia przydziau 
+
+<img width="993" height="611" alt="image" src="https://github.com/user-attachments/assets/64519be8-3078-485e-b4ce-9d5bb9926b4f" />
+
 Wybieramy 100 MB i klikamy OK 
+
+<img width="988" height="988" alt="image" src="https://github.com/user-attachments/assets/ab4779c1-0bfc-4a60-bb30-485dc8182250" />
+
 pojawił się przydział 
+
+<img width="924" height="693" alt="image" src="https://github.com/user-attachments/assets/62c563b0-bc0e-44cb-a543-de726901bdbd" />
+
 teraz klikamy prawym przyciskiem myszy na folder 
 wybieramy właściwości 
+
+<img width="1014" height="696" alt="image" src="https://github.com/user-attachments/assets/b919103c-3c34-4910-8a7e-e8dfeee8be40" />
+
 Zakładka Udostępnianie 
+
+<img width="940" height="916" alt="image" src="https://github.com/user-attachments/assets/40a44aee-c9b4-4b9e-a7c9-588e79aef851" />
+
 Udostępnianie zaawansowane 
+
+<img width="873" height="935" alt="image" src="https://github.com/user-attachments/assets/254dbe20-ff72-4f3c-83fa-4eb0bb4266c4" />
+
 wpisujemy 5 i klikamy zastosuj 
+
+<img width="686" height="703" alt="image" src="https://github.com/user-attachments/assets/4f0e8ad3-165d-4714-abfa-204432765d79" />
+
 3. Opublikuj folder "SSO1" w AD. 
-folder pojawia się w zarządzaniu komputerem 
+folder pojawia się w zarządzaniu komputerem
+
+<img width="963" height="688" alt="image" src="https://github.com/user-attachments/assets/4d3f1313-46ab-43f6-b82c-1bf1c97b1976" />
+
 4. Jeden z tych użytkowników ma mieć prawo do odczytu do 
 tego folderu, a drugi nie powinien mieć do niego dostępu. 
 Sprawdzamy czy ustawienia wybrane podczas wykonywania zadania 2 zostały zastosowane 
-na kliencie logujemy się jako Bastian Smok 
+na kliencie logujemy się jako Bastian Smok
+
+<img width="934" height="677" alt="image" src="https://github.com/user-attachments/assets/8bbe04ce-a97b-477f-a74c-6ca7013fca54" />
+
 po wpisaniu lokalizacji \\serwer\sso1 pojawia się taki komunikat 
+
+<img width="938" height="684" alt="image" src="https://github.com/user-attachments/assets/41751a37-0747-4801-a1ad-0c87e1554aaa" />
+
 teraz logujemy się jako Dariusz Kubica 
+
+<img width="929" height="692" alt="image" src="https://github.com/user-attachments/assets/9f84a8a0-9569-489e-ab68-4579a078c735" />
+
 w przypadku Dariusza udaje się otworzyć folder 
+
+<img width="938" height="736" alt="image" src="https://github.com/user-attachments/assets/ccd492d4-ab3c-4653-b0e0-d215f09033e5" />
+
+
+
+
+
 5. Utwórz na serwerze jeszcze czterech użytkowników oraz 
 folder o nazwie "SSO2". 
-Tak samo jak wcześniej tworzymy użytkowników i folder 
- 
- 
+Tak samo jak wcześniej tworzymy użytkowników i folder
+
+<img width="795" height="649" alt="image" src="https://github.com/user-attachments/assets/4e09f623-85d5-46d5-a895-a5ced3aa8ac4" />
+
+<img width="868" height="668" alt="image" src="https://github.com/user-attachments/assets/c0e11ce8-6ebb-43f3-a875-92df061018fc" />
+
+<img width="725" height="890" alt="image" src="https://github.com/user-attachments/assets/91136936-339b-4a67-9add-7688cfd5816c" />
+
+<img width="737" height="600" alt="image" src="https://github.com/user-attachments/assets/76487f95-7f2b-43ae-a366-be510c6b0484" />
+
  
 
 6. Wykonaj czynności z punktu 2-3 stosując je do folderu 
 "SSO1". 
 Tworzymy udział dla nowego folderu 
+
+<img width="980" height="712" alt="image" src="https://github.com/user-attachments/assets/023447f4-047c-4254-8f30-780933dd8219" />
+
 Dalej 
 
- 
- 
+<img width="953" height="704" alt="image" src="https://github.com/user-attachments/assets/9afc67c1-93a6-48a2-a0bb-1488cb617643" />
+
+<img width="954" height="690" alt="image" src="https://github.com/user-attachments/assets/4972fa17-b451-4853-85a3-74af14beffa2" />
+
+<img width="943" height="688" alt="image" src="https://github.com/user-attachments/assets/fee41440-e1ac-472c-92d8-3650a729ba84" />
+
+<img width="955" height="731" alt="image" src="https://github.com/user-attachments/assets/fe13a058-86e2-4e20-86ce-e30a16bf46b2" />
+
  
 Wyłączamy dziedziczenie  
+
+<img width="953" height="696" alt="image" src="https://github.com/user-attachments/assets/9ace7fd0-ab53-4f8b-b982-dca495a29dae" />
+
+<img width="961" height="639" alt="image" src="https://github.com/user-attachments/assets/0a5165f3-fb74-478b-afc2-4531f4e9f565" />
+
 Klikamy następnie Dodaj  
 wybierz podmiot zabezpieczeń 
+
+<img width="1002" height="704" alt="image" src="https://github.com/user-attachments/assets/f86b97be-cf6b-4928-8d9a-819ab4428fab" />
+
 wpisujemy Informatycy 
+
+<img width="824" height="464" alt="image" src="https://github.com/user-attachments/assets/10b30207-8d16-4512-a70f-ea5637f129a7" />
+
 dodajemy pełnę kontrolę 
+
+<img width="967" height="610" alt="image" src="https://github.com/user-attachments/assets/1c5afd47-bee8-4559-ab74-d1a7c58c7b90" />
+
 Widzimy że Informatycy mają pełną kontrolę 
+
+<img width="973" height="678" alt="image" src="https://github.com/user-attachments/assets/20ff9407-7a44-4420-84d1-1aa775a26eea" />
+
 kończymy kreację 
+
+<img width="978" height="665" alt="image" src="https://github.com/user-attachments/assets/ffd3b3fb-fc69-47b4-9810-b6829f3e2d01" />
+
+<img width="962" height="691" alt="image" src="https://github.com/user-attachments/assets/93c527a1-6197-4dfc-bb77-f4108624ae7d" />
+
 przydzielamy tak samo 100MB 
 
+<img width="1026" height="523" alt="image" src="https://github.com/user-attachments/assets/4b0bc39c-ade8-4b56-aca3-ac4f1b9e2b77" />
 
 ustawiamy też limit dla 5 użytkowników 
+
+<img width="936" height="989" alt="image" src="https://github.com/user-attachments/assets/b2e6ef91-447c-4470-a921-4dac4776f60f" />
+
+
+<img width="967" height="647" alt="image" src="https://github.com/user-attachments/assets/a9784d3e-fdd4-4280-adcc-091c5d834714" />
+
+
 7. Utwórz dwie grupy: "Informatycy" i "Elektronicy". 
 Tworzymy grupę Informatycy oraz Elektronicy w tym samym miejscu co użytkowników 
-PPM i dodaj grupę 
+PPM i dodaj grupę
+
+<img width="1004" height="591" alt="image" src="https://github.com/user-attachments/assets/cbc8c525-200f-4f5e-95eb-994fde2418e8" />
+
+<img width="845" height="606" alt="image" src="https://github.com/user-attachments/assets/6631de0b-3603-4925-958a-9bf27b65e9eb" />
+ 
+<img width="892" height="683" alt="image" src="https://github.com/user-attachments/assets/3240b7cc-78dc-4348-9074-3e7632c1e093" />
+
  
  
  
  
  
  
- 
- 
- 
-8. Przypisz użytkowników do tych grup, tak aby trzech z nich 
-miało pełną kontrolę do obydwu folderów, a trzech pozostałych 
-pełną kontrolę do folderu "SSO", a do "SSO2" brak dostępu. 
+8. Przypisz użytkowników do tych grup, tak aby trzech z nich miało pełną kontrolę do obydwu folderów, a trzech pozostałych  pełną kontrolę do folderu "SSO", a do "SSO2" brak dostępu.
+
+   
 Informatycy będą mieli pełną kontrolę do obu folderów a elektronicy pełną kontrolę do sso1 i 
 brak dostępu do sso2  
 teraz dodajemy użytkowników do grup 
@@ -752,34 +914,78 @@ do grupy elektornicy zostaną przydzieleni bastian.smok, andrzej.karcz i patryk.
 klikamy prawym przyciskiem myszy na każdego użytkownika i wpisujemy nazwę grupy do 
 której chcemy go dodać 
 
+<img width="626" height="621" alt="image" src="https://github.com/user-attachments/assets/cdb88139-8846-4cf1-bd6e-a8671f5377c7" />
+
+<img width="759" height="393" alt="image" src="https://github.com/user-attachments/assets/94c793d0-a555-42e1-ac3b-e0365a783cdb" />
+
 będzie pojawiac się takie okienko potwierdzające 
+
+<img width="994" height="449" alt="image" src="https://github.com/user-attachments/assets/bc7d664a-ddc9-4d4d-8dc9-77a2251562b2" />
+
 takie są skutki 
+
+<img width="772" height="770" alt="image" src="https://github.com/user-attachments/assets/22fe493d-027f-4ebf-924e-811e68411646" />
+
+<img width="826" height="826" alt="image" src="https://github.com/user-attachments/assets/601a012f-35dd-445e-83ff-820fbef39929" />
 
 teraz przydzielimy uprawnienia do sso1 
 klikamy ppm i właściwości 
+
+<img width="937" height="597" alt="image" src="https://github.com/user-attachments/assets/ac6917c6-6d46-49d0-9e05-d9b16ff48cda" />
+
 przechodzimy do zakładki uprawnienia i klikamy Dostosowywanie uprawnień 
 pojawia się znany nam panel 
+
+<img width="939" height="851" alt="image" src="https://github.com/user-attachments/assets/151ade4d-22ab-46a5-9f68-27dc6c9c0313" />
+
 klikamy teraz usuń przy dariuszu kubicy 
+
+<img width="972" height="623" alt="image" src="https://github.com/user-attachments/assets/e00ab912-4ac3-4316-8848-ca549937dae3" />
+
 i dodajemy pełną kontrolę dla obu grup 
+
+<img width="877" height="550" alt="image" src="https://github.com/user-attachments/assets/5e31fd88-6b1c-4b76-9a9b-8a96dd982fd3" />
+
 klikamy zastosuj 
  
- 
+<img width="976" height="633" alt="image" src="https://github.com/user-attachments/assets/9ad26d42-0b5d-4142-a02e-e744e8550efd" />
+
  
  
 teraz sprawdźmy na klientach czy zmiany  
  
 logujemy się na gniewomira 
  
- 
+<img width="951" height="562" alt="image" src="https://github.com/user-attachments/assets/f297272c-216e-477a-87a3-151aff7e92d6" />
+
  
  
 należy on do grupy informatycy więc powinien mieć pełny dostęp do obu folderów 
 w sso1 utworzył nowy dokument tekstowy 
+
+<img width="937" height="706" alt="image" src="https://github.com/user-attachments/assets/0bf9fce5-11a8-480d-b007-dc72c99e9a6a" />
+
 widzimy że ma on pełną kontrolę nad oboma folderami 
 
+<img width="946" height="905" alt="image" src="https://github.com/user-attachments/assets/17c5920d-3586-4d17-add6-2d1dbaf73ef6" />
+
+<img width="946" height="717" alt="image" src="https://github.com/user-attachments/assets/16f47498-8c54-4e0e-8e75-2ec988d152f4" />
+
+
+
 teraz sprawdźmy możliwości patryka madeja, który należy do grupy elektronicy 
+
+<img width="939" height="690" alt="image" src="https://github.com/user-attachments/assets/ab8ad223-6df4-4d39-aa8c-5a2d54209d38" />
+
 udało mu się otworzyć folder sso1 
+
+<img width="939" height="704" alt="image" src="https://github.com/user-attachments/assets/1e979f2f-9cf2-44c1-9a91-2dbb82846039" />
+
+
 do folderu sso2 jednak nie ma uprawnień więc wszystko się zgadza 
+
+<img width="946" height="711" alt="image" src="https://github.com/user-attachments/assets/6614e513-4cfe-41ae-adf4-d4ddbe0dfe71" />
+
 9. Utwórz jeden ukryty folder o dowolnej nazwie z prawami 
 odczytu tylko dla użytkowników tych dwóch grup. 
 W poradniku został pokazany sposób tworzenia ukrytych folderów i jak one działają  
