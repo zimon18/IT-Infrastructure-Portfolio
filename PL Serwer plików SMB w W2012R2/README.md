@@ -1,4 +1,4 @@
-<img width="935" height="645" alt="image" src="https://github.com/user-attachments/assets/4634dc5d-a029-4ae9-8628-41533d7e50bc" /># Serwer plików SMB w W2012R2 #
+# Serwer plików SMB w W2012R2 #
 
 ## Tutoriale ##
 
