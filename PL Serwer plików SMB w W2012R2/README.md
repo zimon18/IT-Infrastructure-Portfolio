@@ -110,9 +110,9 @@ na razie zostawiamy windows server 2012
 Serwer DNS pozostawiamy zaznaczony
 teraz musimy podać hasło trybu przywracania usług katalogowych.
 użytkownik który ma takie uprawnienia może uzyskiwać dostęp do danych na temat
-funkcjonalności serwera.Koliber123
+funkcjonalności serwera.[example password redacted]
 Hasło powinno być inne niż hasło głównego administratora.
-Będzie to w tym przypadku Koliber321
+Będzie to w tym przypadku [example password redacted]
 
 <img width="899" height="429" alt="image" src="https://github.com/user-attachments/assets/b5230a8a-76b2-45ab-8792-adb02e6c92dd" />
 
